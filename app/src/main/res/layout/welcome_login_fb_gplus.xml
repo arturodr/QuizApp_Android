@@ -68,15 +68,6 @@
                 android:text="Login with Google Plus"
                 android:textColor="@android:color/white" />
 
-            <Button
-                android:id="@+id/signup_with_email"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:layout_marginBottom="@dimen/normal_padding"
-                android:background="#8BAB42"
-                android:padding="@dimen/small_padding"
-                android:text="SignUp with Email"
-                android:textColor="@android:color/white" />
         </LinearLayout>
     </LinearLayout>
 

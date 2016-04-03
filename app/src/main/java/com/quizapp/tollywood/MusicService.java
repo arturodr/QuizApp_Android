@@ -8,15 +8,10 @@ import android.util.Log;
 
 import com.quizapp.tollywood.serverutils.ServerCalls;
 
-import org.apache.http.util.ByteArrayBuffer;
 
-import java.io.BufferedInputStream;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.io.IOException;
 import java.io.InputStream;
-import java.io.OutputStream;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.Collection;
