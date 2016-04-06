@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
  
-    <string name="app_name">TollywoodQuiz</string>
+    <string name="app_name">TeleQuiz</string>
 	<string name="main_empty_list">Fetching Messages From server</string>
 	<string name="chat_error_message"> -- Sorry, Unable to load Chat History -- </string>
 	<string name="welcome_screen_message"> Welcome to the all new trivia app. This is one among the series of upcoming amazing trivia apps.</string>
-	<string name="build_name">TollywoodQuiz build[1]</string>
+	<string name="build_name">TeleQuiz build[1]</string>
 	<string name="copyrightText">All user generated content is copyrighted to respective owners.
 Refer to http://creativecommons.org/licenses/by-sa/3.0/ for Copyrighted images.\n\n
 Attributions:\n\n
@@ -16,4 +16,5 @@ Attributions:\n\n
 "ShreyaGhoshal02" by http://www.bollywoodhungama.com - http://www.bollywoodhungama.com/more/photos/view/stills/parties-and-events/id/1433549. Licensed under CC BY 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:ShreyaGhoshal02.jpg#/media/File:ShreyaGhoshal02.jpg	\n\n
 "Rana Daggubati at Louis Philippe Speed challenge" by bollywoodhungama.com - http://www.bollywoodhungama.com/more/photos/view/stills/parties-and-events/id/1341072. Licensed under CC BY 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Rana_Daggubati_at_Louis_Philippe_Speed_challenge.jpg#/media/File:Rana_Daggubati_at_Louis_Philippe_Speed_challenge.jpg\n\n
 	</string>
+	<string name="ga_trackingId">UA-75895936-2</string>
 </resources>

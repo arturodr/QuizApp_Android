@@ -31,7 +31,7 @@ public class Config{
 	public final Random random = new Random();
 	public static final String PREF_SERVER_TIME_DIFF = "serverTimeDiff";
 	public static final int RETRY_URL_COUNT = 1;
-	public static final String GCM_APP_ID = "591807556804";
+	public static final String GCM_APP_ID = "318555550088";
 	public static final int DEFAULT_TEXT_COLOR = Color.BLACK;
 	
 	
@@ -58,7 +58,7 @@ public class Config{
 	public static final String PREF_LAST_CATEGORIES_FETCH_TIME = "categoriesFetchTimeStamp";
 	public static final String NOTIFICATION_KEY_MESSAGE_TYPE = "messageType";
 	public static final String NOTIFICATION_KEY_TEXT_MESSAGE = "message";
-	public static final String GOOGLE_PLUS_SERVER_CLIENT_ID = "591807556804-qltit1nk5rga581b5a2j6tuoogum0s79.apps.googleusercontent.com";
+	public static final String GOOGLE_PLUS_SERVER_CLIENT_ID = "318555550088-votke933p2qvtng4rfjuvtqvl2024sct.apps.googleusercontent.com";
 	public static final long CLASH_SCREEN_DELAY = 3000;
 	public static final long PREQUESTION_FADE_OUT_ANIMATION_TIME = 2000;
 	public static final long BOT_INTIALIZE_AFTER_NO_USER_TIME = 7000;

@@ -21,14 +21,6 @@ public class WelcomeScreen extends Screen {
 		addView(v);
 		googlePlusButton = (SignInButton)v.findViewById(R.id.google_plus_button);
 		facebookButton = (Button)v.findViewById(R.id.facebook_button);
-		Button emailButton = (Button)v.findViewById(R.id.signup_with_email);
-		emailButton.setOnClickListener(new OnClickListener() {
-			
-			@Override
-			public void onClick(View v) {
-				getApp().getStaticPopupDialogBoxes().yesOrNo(UiText.FEATURE_COMMING_SOON.getValue(), null, UiText.CANCEL.getValue(), null);
-			}
-		});
 		googlePlusButton.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
